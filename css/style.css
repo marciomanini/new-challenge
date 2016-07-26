@@ -1,0 +1,43 @@
+﻿body {
+	padding-top: 70px;
+	padding-bottom: 30px;
+	margin-top: 50px;
+}
+
+.btn-img-phone-add{
+	height: 45px;
+	width: 45px;
+	margin-top: 5px;
+	background-image:url("../images/Button-Add-icon.png");
+	border-radius: 45px;
+}
+
+.btn-img-phone-delete{
+	height: 45px;
+	width: 45px;
+	margin-top: 5px;
+	background-image:url("../images/Button-Delete-icon.png");
+	border-radius: 45px;
+}
+
+.mytable{
+	font-size: 10px;
+}
+
+.update{
+	height: 20px;
+	width: 20px;
+	background: url('../images/update-icon.gif') no-repeat center center;
+    border-radius: 20px;
+}
+
+.delete{
+	height: 20px;
+	width: 20px;
+	background: url('../images/delete-icon.gif') no-repeat center center;
+    cursor: pointer;
+}
+
+.today{
+	background-color: yellow;
+}
